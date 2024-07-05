@@ -29,6 +29,24 @@ $\color{#E3C678}{{POST}}$ /api/passwords/create - Create new password<br/>
 * [![OpenJDK][OpenJDK]][Docker-url]
 * [![POSTGRESQL][POSTGRESQL]][POSTGRESQL-url]
 
+## Skills I demonstrated:
+1. Frontend
+* Knowledge of different types of requests
+* Data processing on request and their display
+* Object injection
+* Work with services
+* Error handling
+* Data transfer through various modules of the system
+* Problem solving
+* Creation of adaptive components
+* Processing of real data from the backend
+
+2. Backend
+* СORS configuration
+* Work with the database
+* Holding errors and passing them to the frontend
+* Containerization using Docker
+
 ## Preview
 ### Detect password level
 #### App
@@ -110,19 +128,19 @@ $\color{#E3C678}{{POST}}$ /api/passwords/create - Create new password<br/>
 [Docker-url]: https://www.docker.com/
 
 [OpenJDK]: https://img.shields.io/badge/OpenJDK-000000?style=for-the-badge&logo=openjdk&logoColor=white
-[OpenJDK-url]: https://www.docker.com/
+[OpenJDK-url]: https://openjdk.org/
 
 [POSTGRESQL]: https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
-[POSTGRESQL-url]: https://www.docker.com/
+[POSTGRESQL-url]: https://www.postgresql.org/
 
 [ANGULAR]: https://img.shields.io/badge/angular-E8E8E8?style=for-the-badge&logo=angular&logoColor=black
-[ANGULAR-url]: https://www.docker.com/
+[ANGULAR-url]: https://angular.dev/
 
 [TS]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-[TS-url]: https://www.docker.com/
+[TS-url]: https://www.typescriptlang.org/
 
 [HTML]: https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white
-[HTML-url]: https://www.docker.com/
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 
 [CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white
-[CSS-url]: https://www.docker.com/
+[CSS-url]: https://devdocs.io/css/
