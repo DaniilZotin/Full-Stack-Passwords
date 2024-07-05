@@ -1,0 +1,6 @@
+[submodule "Back-end-passwords-spring"]
+	path = Back-end-passwords-spring
+	url = https://github.com/DaniilZotin/Back-end-passwords-spring
+[submodule "Front-end-passwords-angular"]
+	path = Front-end-passwords-angular
+	url = https://github.com/DaniilZotin/Front-end-passwords-angular
