@@ -74,21 +74,21 @@ $\color{#E3C678}{{POST}}$ /api/passwords/create - Create new password<br/>
 ## Set up
 ### 1. Clone the repo of backend
 ```sh
-    https://github.com/DaniilZotin/Back-end-Spring-Analytics.git
+    https://github.com/DaniilZotin/Back-end-passwords-spring.git
 ```
 ### 2. Up Docker
 ```sh
      docker-compose up --build
 ```
-### 3. You can use port 8094 to check app in postman
+### 3. You can use port 8076 to check app in postman
 ### 4. Clone the repo of frontend
 ```sh
-    https://github.com/DaniilZotin/Front-end-React-Analytics.git
+    https://github.com/DaniilZotin/Front-end-passwords-angular.git
 ```
 ### 5. Build project(frontend)
 ### 6. Start app
 ```sh
-    npm start
+    ng serve
 ```
 
 
